@@ -1,15 +1,4 @@
 # WhiteList-Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+In the blockchain and cryptocurrency space, a whitelist is a term associated with Initial Coin Offering (ICO) events, or withdrawal addresses for exchanges. With regards to an ICO event, a whitelist is a list of registered and approved participants that are given exclusive access to contribute to an ICO or a pre-sale.
 ```
